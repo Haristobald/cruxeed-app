@@ -53,7 +53,7 @@ export default function Step2Instructions({ onNext, onBack }: Props) {
               <rect x="56" y="18" width="10" height="38" rx="5" opacity="0.4" />
               <rect x="69" y="24" width="9" height="32" rx="4.5" opacity="0.35" />
               {/* Thumb */}
-              <ellipse cx="22" cy="62" rx="7" ry="12" rx2="7" transform="rotate(-30 22 62)" opacity="0.3" />
+              <ellipse cx="22" cy="62" rx="7" ry="12" transform="rotate(-30 22 62)" opacity="0.3" />
             </svg>
           </div>
           {/* Camera icon */}
